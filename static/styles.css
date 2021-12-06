@@ -14,12 +14,12 @@ body{
 
 header{
 	font-size: 1.6em;
-	color: white;
+	color: black;
 }
 
 header h1{
 	font-size: 1.8em;
-	color: white;
+	color: black;
 }
 
 .btn-info{
@@ -42,5 +42,5 @@ header h1{
 
 .ml-container textarea{
 	width: 100%;
-	color:rgb(255, 255, 255)
+	color:rgb(0, 0, 0)
 }
